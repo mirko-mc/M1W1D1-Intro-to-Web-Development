@@ -1,0 +1,44 @@
+body {
+    margin: 0;
+}
+
+header {
+    display: flex;
+    flex-direction: column;
+}
+
+.logo {
+    width: 300px;
+    margin: 20px;
+}
+
+.logo-container {
+    display: flex;
+    justify-content: center;
+}
+
+hr {
+    margin: 0;
+    border: solid 1px #ffe6a9;
+}
+
+span {
+    font-weight: bold;
+}
+
+.logo-description {
+    background-color: #fdfbf1;
+    margin: 0;
+    padding: 10px;
+    text-align: center;
+    font-size: large;
+}
+
+main {
+    width: 40%;
+    margin: 0 auto;
+}
+
+.image-focaccia{
+    width: 40cap;
+}
