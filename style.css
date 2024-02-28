@@ -8,7 +8,7 @@ header {
 }
 
 .logo {
-    width: 300px;
+    width: 250px;
     margin: 20px;
 }
 
@@ -28,6 +28,7 @@ span {
 
 .logo-description {
     background-color: #fdfbf1;
+    color: #004949;
     margin: 0;
     padding: 10px;
     text-align: center;
@@ -35,10 +36,38 @@ span {
 }
 
 main {
-    width: 40%;
+    width: 35%;
     margin: 0 auto;
 }
 
-.image-focaccia{
-    width: 40cap;
+h1 {
+    text-align: center;
+}
+
+.image-focaccia {
+    width: 100%;
+    border-radius: 3%;
+}
+
+.image-description {
+    text-align: center;
+    color: #979797;
+}
+
+.featured-container {
+    border-left: solid 2px #ffe6a9;
+    padding: 0% 5% 0% 5%;
+}
+
+.featured {
+    color: #b4450d;
+    margin-bottom: 0;
+}
+
+a {
+    color: #0c7575;
+}
+
+.aqua {
+    color: #c8f4f3;
 }
